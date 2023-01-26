@@ -1,0 +1,22 @@
+﻿{
+  "name": "com.wild-day-games.ui-framework",
+  "version": "0.0.1",
+  "displayName": "UI Framework",
+  "description": "This is an example package",
+  "unity": "2022.2",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Denys Huch",
+    "email": "denyshuch@gmail.com"
+  }
+}
+
+
