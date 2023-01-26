@@ -4,10 +4,10 @@ namespace Modules.UIFramework
 {
     public class PanelView: MonoBehaviour
     {
-        [SerializeField] private PanelType panelType;
+        [SerializeField] private string panelName;
         [SerializeField] private ViewConfig viewConfig;
         
-        public PanelType PanelType => panelType;
+        public string PanelType => panelName;
         public ViewConfig ViewConfig => viewConfig;
         public Canvas Canvas { get; private set; }
 

@@ -6,7 +6,7 @@ namespace Modules.UIFramework.Interface
 {
     public interface IPanelView
     {
-        PanelType PanelType { get; }
+        string PanelType { get; }
         Type Setup(DiContainer container, PanelView viewPrefab);
         void Bind(DiContainer container, Type type);
     }

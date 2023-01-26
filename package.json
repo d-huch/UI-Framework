@@ -1,7 +1,7 @@
-﻿{
+{
   "name": "com.wild-day-games.ui-framework",
   "version": "0.0.1",
-  "displayName": "UI Framework",
+  "displayName": "UI-Framework",
   "description": "This is an example package",
   "unity": "2022.2",
   "unityRelease": "0b5",
@@ -18,5 +18,3 @@
     "email": "denyshuch@gmail.com"
   }
 }
-
-
